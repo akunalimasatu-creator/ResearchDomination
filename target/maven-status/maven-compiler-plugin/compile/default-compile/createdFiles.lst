@@ -1,0 +1,17 @@
+com\example\cardgame\PlayerAreaView.class
+com\example\cardgame\Card.class
+com\example\cardgame\Main.class
+com\example\cardgame\PlayerBonus.class
+com\example\cardgame\Suit.class
+com\example\cardgame\CenterBoardView.class
+com\example\cardgame\Player.class
+com\example\cardgame\DiscardPile.class
+com\example\cardgame\Main$1PlayerPubCount.class
+com\example\cardgame\ResearchBoard$1.class
+com\example\cardgame\Literature.class
+com\example\cardgame\CardView.class
+com\example\cardgame\PublicationBoard.class
+com\example\cardgame\PublicationBoard$1.class
+com\example\cardgame\Deck.class
+com\example\cardgame\ResearchBoard.class
+com\example\cardgame\AppLauncher.class

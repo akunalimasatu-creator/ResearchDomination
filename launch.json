@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run CardGame",
+            "request": "launch",
+            "mainClass": "com.example.cardgame.AppLauncher"
+        }
+    ]
+}
