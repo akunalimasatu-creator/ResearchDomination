@@ -31,7 +31,7 @@ jobs:
           --input target \
           --main-jar cardgame-1.0-SNAPSHOT.jar \
           --main-class com.example.cardgame.AppLauncher \
-          --destOutputDir dist \
+          --dest dist \
           --vendor "Developer"
 
     - name: Upload DMG Artifact
